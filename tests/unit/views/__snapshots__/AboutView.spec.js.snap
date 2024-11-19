@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AboutView.vue > matches the snapshot 1`] = `
+"<div class="about-container">
+  <h1>About Page</h1>
+  <p>This is the About page!</p>
+  <router-link to="/" class="back-link">Back to Home</router-link>
+</div>"
+`;

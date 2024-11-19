@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ContactView.vue > matches the snapshot 1`] = `
+"<div class="contact-container">
+  <h1>Contact Page</h1>
+  <p>This is the Contact page!</p>
+  <router-link to="/" class="back-link">Back to Home</router-link>
+</div>"
+`;
